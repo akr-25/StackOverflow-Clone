@@ -1,0 +1,14 @@
+{
+    "[javascriptreact]": {
+
+        "editor.autoClosingBrackets": "always"
+    },
+    "[javascript]": {
+
+        "editor.autoClosingBrackets": "always"
+    },
+    "[jsx]": {
+
+        "editor.autoClosingBrackets": "always"
+    }
+}
