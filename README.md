@@ -2,7 +2,7 @@
 
 ### This is a MERN based app that replicates the basic features of Stack-Overflow 
 
-### [Link](https://iitg-stackoveflow.web.app)
+### [Link](https://iitg-stackoverflow.web.app)
 
 ## Features
 - MongoDB based authentication using email and password.
