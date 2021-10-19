@@ -2,6 +2,8 @@
 
 ### This is a MERN based app that replicates the basic features of Stack-Overflow 
 
+### ![Link](iitg-stackoveflow.web.app)
+
 ## Features
 - MongoDB based authentication using email and password.
 - User can add Questions, upvote them and comment on then, same with answers. (You can also upvote the comments xD )
@@ -30,4 +32,3 @@ Open frontend directory (using ``` cd frontend ``` ) and run the following to co
 
 Do the same for backend repo. 
 
-### I will host the website soon and update this readme!
